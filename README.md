@@ -22,6 +22,6 @@ The Passage Team
   - [Md Asif Joardar](https://github.com/asifjoardar)
   - [Nahid Hasan](https://github.com/NHSanto)
 
-### Preview :rose:
+### Preview :eyes:
 ![](https://raw.githubusercontent.com/The-Passage/EPC-online-judge/master/preview.png)
 
