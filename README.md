@@ -1,4 +1,4 @@
-# EPC-online-judge
+# EPC-online-judge v1.0
 
 EPCOJ is a programming contests and problem solving platform for sports programmers.
 
@@ -14,3 +14,8 @@ It executes the submitted code by user and displays the result back to the user.
   - bootstrap 4
   - django
   - postgresql
+
+**Developers**
+  - [Md Apple Mahmud](https://github.com/mapplee)
+  - [Md Asif Joardar](https://github.com/asifjoardar)
+  - [Nahid Hasan](https://github.com/NHSanto)
