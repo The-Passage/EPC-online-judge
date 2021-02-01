@@ -15,7 +15,7 @@ It executes the submitted code by user and displays the result back to the user.
   - django
   - postgresql
 
-### Developers :collision: :grey_exclamation:
+### Developers :collision:
 
 The Passage Team
   - [Md Apple Mahmud](https://github.com/mapplee)
